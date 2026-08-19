@@ -62,8 +62,8 @@ A web application that generates creative stories from user-provided prompts usi
 
 Tech: "Python" "DistilGPT-2" "HuggingFace" "Streamlit"
 
-<br/><a href="https://github.com/sunil11122251">
-<img src="https://img.shields.io/badge/View%20Projects-181717?style=flat-square&logo=github&logoColor=white"/>
+<br/><a href="https://github.com/sunil11122251/streamlit-story-generation">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
 </a></td><td width="33%" valign="top">⛅ Weather Forecast Web App
 
 Real-Time Weather Application
@@ -78,12 +78,12 @@ A Flask-based web application that retrieves weather information based on a city
 Tech: "Flask" "HTML" "CSS" "REST API" "Render"
 
 <br/><a href="https://github.com/sunil11122251">
-<img src="https://img.shields.io/badge/View%20Projects-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/More%20Projects-181717?style=flat-square&logo=github&logoColor=white"/>
 </a></td><td width="33%" valign="top">🌫️ AQI Prediction
 
 Air Quality Analysis & Prediction
 
-A machine learning project that predicts air quality using pollutant-related data.
+A machine learning project for predicting air quality using pollutant-related data.
 
 - Developed an XGBoost prediction model
 - Used Pandas for data processing
@@ -93,8 +93,8 @@ A machine learning project that predicts air quality using pollutant-related dat
 
 Tech: "Python" "XGBoost" "SHAP" "Pandas" "Matplotlib"
 
-<br/><a href="https://github.com/sunil11122251">
-<img src="https://img.shields.io/badge/View%20Projects-181717?style=flat-square&logo=github&logoColor=white"/>
+<br/><a href="https://github.com/sunil11122251/aqi_prediction_project">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
 </a></td></tr>
 </table><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />🎓 Education
 
@@ -146,7 +146,9 @@ Sri Sai Vidyalaya High School, Rajampet, Andhra Pradesh
 </a><br/><br/>
 
 📍 Rajampet, Andhra Pradesh, India
+
 📧 sunil11122251@gmail.com
+
 📱 +91-6305490050
 
 </div><br/><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" /><div align="center"><sub>⭐ Thanks for visiting my profile! Feel free to explore my repositories.</sub>
