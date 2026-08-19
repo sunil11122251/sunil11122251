@@ -38,7 +38,7 @@
 🌐 Web Development
 
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/><br/>
 
@@ -99,15 +99,21 @@ Tech: "Python" "XGBoost" "SHAP" "Pandas" "Matplotlib"
 </table><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />🎓 Education
 
 B.Tech — Artificial Intelligence & Machine Learning
+
 Alliance University, Bangalore, Karnataka
+
 2026 | CGPA: 8.5
 
 Intermediate — MPC
+
 Sri Chaitanya Boys Junior College, Vijayawada, Andhra Pradesh
+
 2022 | 93.2%
 
 SSLC
+
 Sri Sai Vidyalaya High School, Rajampet, Andhra Pradesh
+
 2020 | 97.1%
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />📜 Certifications
@@ -119,13 +125,15 @@ Sri Sai Vidyalaya High School, Rajampet, Andhra Pradesh
 - 💼 Participated in Internship Common Aptitude Test – Internship Studio (2025)
 - 📝 Appeared for Joint Entrance Examination – NTA (2022)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />📊 GitHub Analytics
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />📊 GitHub Activity
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=sunil11122251&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" /><img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sunil11122251&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" /><br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil11122251&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" /></div>📈 Contribution Graph
-
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sunil11122251&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" width="100%"/></div><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />🌱 Currently Learning
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sunil11122251&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" width="100%"/></div><br/><div align="center"><a href="https://github.com/sunil11122251">
+<img src="https://img.shields.io/github/followers/sunil11122251?style=for-the-badge&label=Followers&logo=github" />
+</a><a href="https://github.com/sunil11122251?tab=repositories">
+<img src="https://img.shields.io/github/stars/sunil11122251?style=for-the-badge&label=Repository%20Stars&logo=github" />
+</a><a href="https://github.com/sunil11122251?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a></div><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />🌱 Currently Learning
 
 <div align="center"><img src="https://img.shields.io/badge/Artificial%20Intelligence-38BDF8?style=for-the-badge&logo=openai&logoColor=white" /><img src="https://img.shields.io/badge/Python%20Development-38BDF8?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/Machine%20Learning-38BDF8?style=for-the-badge&logo=scikitlearn&logoColor=white" /><img src="https://img.shields.io/badge/Data%20Analytics-38BDF8?style=for-the-badge&logo=powerbi&logoColor=white" /></div><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />📬 Let's Connect
 
@@ -141,6 +149,6 @@ Sri Sai Vidyalaya High School, Rajampet, Andhra Pradesh
 📧 sunil11122251@gmail.com
 📱 +91-6305490050
 
-</div><br/><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" /><div align="center">
-<sub>⭐ Thanks for visiting my profile! Feel free to explore my repositories.</sub>
+</div><br/><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" /><div align="center"><sub>⭐ Thanks for visiting my profile! Feel free to explore my repositories.</sub>
+
 </div>
