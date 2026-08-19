@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Sannapaneni%20Sunil&fontSize=48&fontColor=38BDF8&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=20&descColor=94A3B8&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Sannapaneni%20Sunil&fontSize=48&fontColor=38BDF8&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18&descColor=94A3B8&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+MERN;Turning+ideas+into+clean%2C+usable+products;Always+shipping%2C+always+learning;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+full-stack+web+apps+that+ship;Exploring+NLP%2C+ML+%26+data-driven+products;B.Tech+in+AI+%26+ML+%40+Alliance+University;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -26,12 +26,13 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/dev.gif" />
 
-- 🎓 Full Stack Web Developer — **Fresher**, based in **India**
-- 💻 I build responsive, performant, and clean web applications using the **MERN stack**
-- 🌱 Currently deepening my skills in **AI, System Design, Docker, AWS & DevOps**
-- ⚡ I care about writing readable code, thoughtful UI, and shipping things that actually work
-- 🎯 Goal: land a role where I can grow fast, contribute meaningfully, and keep learning
-- 📫 Reach me at **sunil11122251@gmail.com**
+- 🎓 B.Tech in **AI & Machine Learning**, Alliance University, Bangalore — CGPA **8.5** (Class of 2026)
+- 💻 I build full-stack web apps and end-to-end **AI/ML applications**, from a React front end to a Flask/Python model behind it
+- 🧠 Comfortable across the stack: **web dev** (HTML, JS, Flask, REST APIs) and **applied ML** (Python, XGBoost, SHAP, Pandas)
+- 🌱 Currently deepening my skills in **System Design, Docker, AWS & DevOps**
+- ⚡ I care about writing readable code, clear model explainability, and shipping things that actually work
+- 🎯 Goal: a role where I can build real products at the intersection of web engineering and AI
+- 📫 Reach me at **sunil11122251@gmail.com** · 📱 **+91-6305490050** · 📍 **Rajampet, Andhra Pradesh, India**
 
 <br clear="right"/>
 
@@ -43,11 +44,23 @@
 
 **Languages & Markup**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark" />
 
-**Frameworks & Libraries**
+**Web Frameworks & Libraries**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,bootstrap,tailwind&theme=dark" />
+
+**AI / ML & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/SHAP-38BDF8?style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 **Databases**
 <br/>
@@ -56,6 +69,7 @@
 **Tools & Platforms**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman&theme=dark" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 
 </div>
 
@@ -100,47 +114,47 @@
 <tr>
 <td width="33%" valign="top">
 
-### 🛒 Project One
-**E-Commerce Platform**
+### 📖 Story Generation Web App
+**AI-Powered Story Generator**
 
-Full-featured storefront with cart, auth, and order management built for real-world scale.
+Built with the DistilGPT-2 model and Streamlit — users enter a prompt and the app generates a creative story via HuggingFace's text-generation pipeline. Hands-on with NLP and end-to-end AI app integration.
 
-`React` `Node.js` `Express` `MongoDB`
+`Python` `DistilGPT-2` `HuggingFace` `Streamlit`
 
 <a href="https://github.com/sunil11122251"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-38BDF8?style=flat-square&logo=streamlit&logoColor=white"/></a>
 
 </td>
 <td width="33%" valign="top">
 
-### 📋 Project Two
-**Task Management App**
+### ⛅ Weather Forecast Web App
+**Real-Time Forecasting Tool**
 
-Kanban-style productivity tool with drag-and-drop boards and real-time updates.
+Flask app that fetches live weather data via the Open-Meteo geocoding and forecast APIs based on a city name. Deployed on Render — solid backend + REST API integration experience.
 
-`Next.js` `TypeScript` `MongoDB` `Tailwind`
+`Flask` `HTML` `CSS` `REST API` `Render`
 
 <a href="https://github.com/sunil11122251"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-38BDF8?style=flat-square&logo=render&logoColor=white"/></a>
 
 </td>
 <td width="33%" valign="top">
 
-### 📝 Project Three
-**Blog / CMS Platform**
+### 🌫️ Air Quality Index Prediction
+**AQI Analysis & Prediction Model**
 
-Markdown-powered blogging engine with an admin dashboard and JWT auth.
+XGBoost model that predicts air quality levels from pollutant data, with SHAP used to explain predictions and surface which factors drive AQI the most.
 
-`React` `Express` `MySQL` `Bootstrap`
+`XGBoost` `SHAP` `Pandas` `Matplotlib`
 
 <a href="https://github.com/sunil11122251"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Notebook-38BDF8?style=flat-square&logo=jupyter&logoColor=white"/></a>
 
 </td>
 </tr>
 </table>
 
-> ✏️ **Note:** Update the links above with your actual repo URLs and live demo links, and swap in real project names/descriptions.
+> ✏️ **Note:** Swap the `#` demo links above with your actual live URLs (Streamlit/Render/notebook links) once you confirm them.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
@@ -153,6 +167,20 @@ Markdown-powered blogging engine with an admin dashboard and JWT auth.
 <img src="https://img.shields.io/badge/Docker-38BDF8?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-38BDF8?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/DevOps-38BDF8?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+## 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft%20Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/OCI%20Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning%20with%20Python-3776AB?style=for-the-badge&logo=coursera&logoColor=white" />
+<img src="https://img.shields.io/badge/Relational%20Database%20Design-4479A1?style=for-the-badge&logo=coursera&logoColor=white" />
+<img src="https://img.shields.io/badge/Compiler%20Design%20(NPTEL)-38BDF8?style=for-the-badge&logo=bookstack&logoColor=white" />
 
 </div>
 
@@ -196,4 +224,3 @@ Markdown-powered blogging engine with an admin dashboard and JWT auth.
 <div align="center">
 <sub>⭐️ Thanks for stopping by — feel free to explore my repos and reach out!</sub>
 </div>
-
